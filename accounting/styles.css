@@ -1,7 +1,7 @@
 /* Your subject-specific CSS goes here */
 
 .subject-header {
-    background-color: #0079c2;
+    background-color: #000; /* Change to black */
     color: #fff;
     text-align: center;
     padding: 20px;
@@ -57,7 +57,7 @@
 }
 
 .subject-footer {
-    background-color: #0079c2;
+    background-color: #000; /* Change to black */
     color: #fff;
     text-align: center;
     padding: 10px;
